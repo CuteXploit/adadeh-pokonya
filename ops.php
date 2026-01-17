@@ -1,5 +1,4 @@
 <?php
-// Ambil info server
 $os     = php_uname('s');
 $kernel = php_uname('r');
 $arch   = php_uname('m');
